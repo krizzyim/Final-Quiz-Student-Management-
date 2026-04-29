@@ -13,7 +13,7 @@ class employee extends Model
     protected $primarykey = 'id';
     protected $fillable = [
         'fname',
-        'lname', 
+        'Lname', 
         'midname',
         'age',
         'address',
