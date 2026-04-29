@@ -6,7 +6,7 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1 class="m-0">{{ __('Employee Management') }}</h1>
+                    <h1 class="m-0">{{ __('Student Management') }}</h1>
                 </div><!-- /.col -->
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
@@ -25,7 +25,7 @@
                 <div class="col-6 m-auto">
                   <div class="card card-secondary">
                    <div class="card-header">
-                     <h3 class="card-title">Add new employee</h3>
+                     <h3 class="card-title">Add new student</h3>
                    </div>
 
                      <form  action="{{ route('employee.store') }}" method="POST">
