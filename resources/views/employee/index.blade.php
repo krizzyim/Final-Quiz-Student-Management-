@@ -37,10 +37,10 @@
                                 <th>Last Name</th>
                                 <th>Middle Name</th>
                                 <th>Age</th>
-                                <th>Address</th>
-                                <th>Zip</th>
-                                <th>Edit</th>
-                                <th>Delete</th>
+                                <th>address</th>
+                                <th>zip</th>
+                                <th>edit</th>
+                                <th>delete</th>
                             </tr>
                         </thead>
 
